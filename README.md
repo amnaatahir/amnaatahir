@@ -90,7 +90,7 @@ Software Engineer • Full Stack Developer • AI/ML Enthusiast
 
 ## 🌟 Featured Projects
 
-### 🔐 [Two-Factor Authentication (2FA)](YOUR_REPOSITORY_LINK)
+### 🔐 [Two-Factor Authentication (2FA)](https://github.com/amnaatahir/TwoFactorAuthentication)
 
 .NET REST API with JWT authentication, TOTP verification, encrypted secrets, and QR onboarding.
 
